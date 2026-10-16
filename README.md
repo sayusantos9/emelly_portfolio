@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 💜 Olá, eu sou a Emelly Sayury!
+#  Olá, eu sou a Emelly Sayury!
 
 ### Desenvolvedora de Software | Mobile | Web
 
